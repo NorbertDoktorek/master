@@ -6,3 +6,8 @@
 1. Wylosuj swój cytat dnia.
 2. Źródło: http://lubimyczytac.pl/cytaty
 
+"# Choinka"
+1. Lekiem na wszystko - print().
+2. Gałązka pełna gwiazdek.
+
+
