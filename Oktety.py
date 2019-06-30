@@ -1,6 +1,6 @@
 import random
 from tkinter import *
-
+id
 
 window = Tk()
 window.geometry("480x360")
